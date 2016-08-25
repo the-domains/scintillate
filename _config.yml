@@ -1,0 +1,14 @@
+layout_spectrum: 0.5151267049368471
+typography_spectrum: 0.8182474111672491
+color:
+  brandStrength: 0.96031458908692
+  lightness: 0.648476779460907
+  saturation: 0.14255360048264265
+  rhythmicContrast: 0.3117723669856787
+  brandColors:
+    - '#E7E8D1'
+    - '#D3CEAA'
+    - '#FBF7E4'
+    - '#424242'
+    - '#8E001C'
+name: scintillate
